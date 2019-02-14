@@ -17,6 +17,11 @@ header {
     background-size: cover;
     height: 100vh;
 }
+  .p-header {
+        position: relative;
+        bottom: 10px;
+    }
+
 /* Page Title */
 .Title {
     position: relative;
@@ -108,6 +113,11 @@ a.links {
     .bottom-stick {
         width: 248.48px;
         left: 20px;
+        bottom: 10px;
+    }
+    
+      .p-header {
+        position: relative;
         bottom: 10px;
     }
 
